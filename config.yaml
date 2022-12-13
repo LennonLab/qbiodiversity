@@ -16,7 +16,11 @@ params:
 
 menu:
   main:
-
+    - identifier: summary
+      name: Summary
+      pre: <i class='fa fa-home fa-fw'></i>
+      url: /
+      weight: 1
     - identifier: objectives
       name: Objectives
       pre: <i class='fa fa-list fa-fw'></i>
