@@ -19,7 +19,7 @@ menu:
     - identifier: summary
       name: Summary
       pre: <i class='fa fa-home fa-fw'></i>
-      url: /
+      url: /summary/
       weight: 1
     - identifier: objectives
       name: Objectives
