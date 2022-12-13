@@ -1,11 +1,11 @@
 ---
 date: "2022-12-12"
-description: How to contact us
 sidemenu: "true"
 title: Contact
 ---
 
 ### Course Director
+
 Dr. Jay T. Lennon<br />
 261 Biology Building (office)<br />
 812-856-0962 (office phone)<br />

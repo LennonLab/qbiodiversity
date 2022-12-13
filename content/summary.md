@@ -1,7 +1,7 @@
 ---
 date: "2022-12-12"
+sidemenu: "true"
 title: Quantitative Biodiversity
-description: BIOL Z620
 ---
 
 <img src="/img/QB_logo.png" height="300px" width="300px" />
