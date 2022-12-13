@@ -2,7 +2,6 @@ baseurl: https://qbiodiversity.netlify.app
 languageCode: en-us
 title: Quantitative Biodiversity
 theme: blackburn
-author: Jay T. Lennon
 copyright: '&copy; 2022. All rights reserved.'
 canonifyurls: yes
 paginate: 10
