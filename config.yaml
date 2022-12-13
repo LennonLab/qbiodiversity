@@ -1,0 +1,51 @@
+baseurl: qbiodiversity.netlify.app
+languageCode: en-us
+title: Quantitative Biodiversity
+theme: blackburn
+author: Jay T. Lennon
+copyright: '&copy; 2022. All rights reserved.'
+canonifyurls: yes
+paginate: 10
+indexes:
+  tag: tags
+  topic: topics
+params:
+  brand: QB
+  dateFormat: 02 Jan 2006, 15:04
+  disqus: Your Disqus shortname
+  googleAnalytics: Your Google Analytics tracking ID
+  highlightjs: androidstudio
+  subtitle: BIOL Z620
+
+menu:
+
+  main:
+    - identifier: course
+      name: Course
+      url: /course
+      weight: 1
+    - identifier: objectives
+      name: Objectives
+      #pre: <i class='fa fa-list fa-fw'></i>
+      url: /objectives/
+      weight: 2
+    - identifier: resources
+      name: Resources
+      #pre: <i class='fa fa-user fa-fw'></i>
+      url: /resources/
+      weight: 3
+    - identifier: schedule
+      name: Schedule
+      #pre: <i class='fa fa-user fa-fw'></i>
+      url: /schedule/
+      weight: 4
+    - identifier: contact
+      name: Contact
+      #pre: <i class='fa fa-phone fa-fw'></i>
+      url: /contact/
+      weight: 5
+      
+      
+social:
+  github: QuantitativeBiodiversity
+ 
