@@ -16,7 +16,7 @@ params:
 
 menu:
   main:
-    - identifier: summary
+    - identifier: index
       name: Summary
       pre: <i class='fa fa-home fa-fw'></i>
       url: /

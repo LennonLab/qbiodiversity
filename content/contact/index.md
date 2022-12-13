@@ -14,7 +14,7 @@ Dr. Jay T. Lennon<br />
 ### Other Instructors
 Dr. John McMullen<br />
 073 Biology Building (office)<br />
-261 Biology Building (lab)
+261 Biology Building (lab)<br />
 [jgmcmull@iu.edu](mailto:jgmcmull@iu.edu?Subject=Quantitative%20Biodiversity%202021)
 
 Dr. Canan Karakoç<br />
