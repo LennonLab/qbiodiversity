@@ -22,7 +22,7 @@ menu:
   main:
     - identifier: course
       name: Course
-      url: /course
+      url: /course/
       weight: 1
     - identifier: objectives
       name: Objectives
