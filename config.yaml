@@ -1,4 +1,4 @@
-baseurl: https://qbiodiversity.netlify.app
+baseurl: https://qbiodiversity.netlify.app/
 languageCode: en-us
 title: Quantitative Biodiversity
 theme: blackburn
@@ -19,27 +19,27 @@ menu:
     - identifier: summary
       name: Summary
       pre: <i class='fa fa-home fa-fw'></i>
-      url: /summary/
+      url: /summary
       weight: 1
     - identifier: objectives
       name: Objectives
       pre: <i class='fa fa-list fa-fw'></i>
-      url: /objectives/
+      url: /objectives
       weight: 2
     - identifier: resources
       name: Resources
       pre: <i class='fa fa-info fa-fw'></i>
-      url: /resources/
+      url: /resources
       weight: 3
     - identifier: schedule
       name: Schedule
       pre: <i class='fa fa-calendar fa-fw'></i>
-      url: /schedule/
+      url: /schedule
       weight: 4
     - identifier: contact
       name: Contact
       pre: <i class='fa fa-user fa-fw'></i>
-      url: /contact/
+      url: /contact
       weight: 5
       
       
