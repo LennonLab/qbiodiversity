@@ -12,12 +12,10 @@ Dr. Jay T. Lennon<br />
 [lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202021)
 
 ### Other Instructors
-Dr. John McMullen<br />
+Dr. Emma Bueren<br />
 073 Biology Building (office)<br />
-261 Biology Building (lab)<br />
-[jgmcmull@iu.edu](mailto:jgmcmull@iu.edu?Subject=Quantitative%20Biodiversity%202021)
+[jgmcmull@iu.edu](mailto:ebueren@iu.edu?Subject=Quantitative%20Biodiversity%202021)
 
-Dr. Canan Karakoç<br />
+Dr. Jipeng Luo<br />
 073 Biology Building (office)<br />
-261 Biology Building (lab)<br />
-[ckarakoc@iu.edu](mailto:ckarakoc@iu.edu?Subject=Quantitative%20Biodiversity%202021)
+[ckarakoc@iu.edu](mailto:luojip@iu.edu?Subject=Quantitative%20Biodiversity%202021)
