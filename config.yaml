@@ -10,6 +10,7 @@ pagination:
 indexes:
   tag: tags
   topic: topics
+
 params:
   brand: QB
   dateFormat: 02 Jan 2006, 15:04
