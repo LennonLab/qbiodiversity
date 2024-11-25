@@ -1,5 +1,5 @@
 ---
-date: "2022-12-12"
+date: "2024-11-25"
 title: Quantitative Biodiversity
 description: BIOL Z620
 ---
@@ -8,7 +8,7 @@ description: BIOL Z620
 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction  in Earth's history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
-[Student Portal](https://github.com/QuantitativeBiodiversity/QB-2021)
+[Student Portal](https://github.com/QuantitativeBiodiversity/QB-2025)
 
 ## Course summary 
 

@@ -1,5 +1,5 @@
 ---
-date: "2022-12-12"
+date: "2024-11-25"
 sidemenu: "true"
 title: Contact
 ---
@@ -8,16 +8,15 @@ title: Contact
 
 Dr. Jay T. Lennon<br />
 261 Biology Building (office)<br />
-812-856-0962 (office phone)<br />
-[lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202021)
+[lennonj@iu.edu](mailto:lennonj@iu.edu?Subject=Quantitative%20Biodiversity%202025)
 
 ### Other Instructors
-Dr. John McMullen<br />
+Dr. Emma Bueren<br />
 073 Biology Building (office)<br />
 261 Biology Building (lab)<br />
-[jgmcmull@iu.edu](mailto:jgmcmull@iu.edu?Subject=Quantitative%20Biodiversity%202021)
+[ebueren@iu.edu](mailto:ebueren@iu.edu?Subject=Quantitative%20Biodiversity%202025)
 
-Dr. Canan Karakoç<br />
+Dr. Jipeng Luo<br />
 073 Biology Building (office)<br />
 261 Biology Building (lab)<br />
-[ckarakoc@iu.edu](mailto:ckarakoc@iu.edu?Subject=Quantitative%20Biodiversity%202021)
+[luojip@iu.edu](mailto:luojip@iu.edu?Subject=Quantitative%20Biodiversity%202025)
