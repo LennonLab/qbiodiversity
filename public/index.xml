@@ -2,71 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantitative Biodiversity</title>
-    <link>https://qbiodiversity.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Quantitative Biodiversity</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qbiodiversity.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://qbiodiversity.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://qbiodiversity.netlify.app/contact/</guid>
-      <description>Course Director Dr. Jay T. Lennon
-261 Biology Building (office)
-lennonj@iu.edu
-Other Instructors Dr. Emma Bueren
-073 Biology Building (office)
-261 Biology Building (lab)
-ebueren@iu.edu
-Dr. Jipeng Luo
-073 Biology Building (office)
-261 Biology Building (lab)
-luojip@iu.edu</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h3 id=&#34;course-director&#34;&gt;Course Director&lt;/h3&gt;&#xA;&lt;p&gt;Dr. Jay T. Lennon&lt;br /&gt;&#xA;261 Biology Building (office)&lt;br /&gt;&#xA;&lt;a href=&#34;mailto:lennonj@iu.edu?Subject=Quantitative%20Biodiversity%202025&#34;&gt;lennonj@iu.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other-instructors&#34;&gt;Other Instructors&lt;/h3&gt;&#xA;&lt;p&gt;Dr. Emma Bueren&lt;br /&gt;&#xA;073 Biology Building (office)&lt;br /&gt;&#xA;261 Biology Building (lab)&lt;br /&gt;&#xA;&lt;a href=&#34;mailto:ebueren@iu.edu?Subject=Quantitative%20Biodiversity%202025&#34;&gt;ebueren@iu.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dr. Jipeng Luo&lt;br /&gt;&#xA;073 Biology Building (office)&lt;br /&gt;&#xA;261 Biology Building (lab)&lt;br /&gt;&#xA;&lt;a href=&#34;mailto:luojip@iu.edu?Subject=Quantitative%20Biodiversity%202025&#34;&gt;luojip@iu.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quantitative Biodiversity</title>
-      <link>https://qbiodiversity.netlify.app/summary/</link>
+      <link>http://localhost:1313/summary/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://qbiodiversity.netlify.app/summary/</guid>
-      <description>Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction in Earth&amp;rsquo;s history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
-Student Portal
-Course summary This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity.</description>
+      <guid>http://localhost:1313/summary/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/img/QB_logo.png&#34; height=&#34;300px&#34; width=&#34;300px&#34; /&gt;&#xA;&lt;p&gt;Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction  in Earth&amp;rsquo;s history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/QuantitativeBiodiversity/QB-2025&#34;&gt;Student Portal&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;course-summary&#34;&gt;Course summary&lt;/h2&gt;&#xA;&lt;p&gt;This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity. Each class meeting will consist of a short lecture followed by computational exercises designed to analyze aspects of biodiversity using data from tree, bird, mammal, and microbial systems. Students will learn how to calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and test hypotheses with an array of statistical techniques. We will learn how to map traits to phylogenetic trees and make inferences about the phylogenetic structure of communities. Concepts related to taxonomic and phylogenetic diversity will be extended to understand spatial and temporal dynamics. Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub. The class will culminate with student-led team projects.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Resources</title>
-      <link>https://qbiodiversity.netlify.app/resources/</link>
+      <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://qbiodiversity.netlify.app/resources/</guid>
-      <description>Recommended textbooks  Measuring Biological Diversity, Magurran (2004) – (available online) Biological Diversity, Magurran and McGill (2011) – (available online) Numerical Ecology, Legendre and Legendre (2013) – (available online) Introductory Statistics with R, Dalgard (2008) – (available online) Numerical Ecology with R, Borcard, Gillet, &amp;amp; Legendre (2011) – (available online) Functional and Phylogenetic Ecology in R, Swenson (2014) – (available online) Phylogenies in Ecology, Cadotte and Davies (2016) - (available online) Pro Git, Chacon and Straub (2014) (available online)  Computational approaches to biodiversity using R And GitHub In this course, we will be using R and GitHub as complimentary tools for learning quantitative biodiversity.</description>
+      <guid>http://localhost:1313/resources/</guid>
+      <description>&lt;h3 id=&#34;recommended-textbooks&#34;&gt;Recommended textbooks&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measuring Biological Diversity, Magurran (2004) – (&lt;a href=&#34;https://iucat.iu.edu/catalog/14553855&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Biological Diversity, Magurran and McGill (2011) – (&lt;a href=&#34;https://ebookcentral.proquest.com/lib/iub-ebooks/detail.action?docID=3054675&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Numerical Ecology, Legendre and Legendre (2013) – (&lt;a href=&#34;https://ebookcentral.proquest.com/lib/iub-ebooks/detail.action?docID=982554&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Introductory Statistics with R, Dalgard (2008) – (&lt;a href=&#34;http://link.springer.com/book/10.1007/978-0-387-79054-1&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Numerical Ecology with R, Borcard, Gillet, &amp;amp; Legendre (2011) – (&lt;a href=&#34;http://link.springer.com/book/10.1007/978-1-4419-7976-6&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Functional and Phylogenetic Ecology in R, Swenson (2014) – (&lt;a href=&#34;http://link.springer.com/book/10.1007/978-1-4614-9542-0&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Phylogenies in Ecology, Cadotte and Davies (2016) - (&lt;a href=&#34;https://goo.gl/kWq457&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Pro Git, Chacon and Straub (2014) (&lt;a href=&#34;https://goo.gl/zF9tNr&#34;&gt;available online&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;computational-approaches-to-biodiversity-using-r-and-github&#34;&gt;Computational approaches to biodiversity using R And GitHub&lt;/h3&gt;&#xA;&lt;p&gt;In this course, we will be using &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; as complimentary tools for learning quantitative biodiversity. R is a free, open-source programming language that is widely used for data visualization and statistics. Specifically, &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; is an integrated development environment (IDE) that will allow us to interface with other packages, including &lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; and &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt;. Last, we will be using GitHub as a version control system to track, record, and recover changes throughout the history of a project.&#xA;GitHub is the premier tool for collaborative and social development of computing-based projects, allowing instructors, students, and collaborators to develop a project (or class) from remote locations. We will use &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; to host course material including this syllabus, code, and exercises. Each student will have their own GitHub repository and will use GitHub to store and submit their work.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Schedule</title>
-      <link>https://qbiodiversity.netlify.app/schedule/</link>
+      <link>http://localhost:1313/schedule/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://qbiodiversity.netlify.app/schedule/</guid>
-      <description>Schedule Week 0 Introduction to the computing environment Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material.
-Week 1 Introduction to Quantitative Biodiversity
-What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics.</description>
+      <guid>http://localhost:1313/schedule/</guid>
+      <description>&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;&#xA;&lt;h3 id=&#34;week-0&#34;&gt;Week 0&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction to the computing environment&lt;/strong&gt;&#xA;Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material.&lt;/p&gt;&#xA;&lt;h3 id=&#34;week-1&#34;&gt;Week 1&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction to Quantitative Biodiversity&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Objectives</title>
-      <link>https://qbiodiversity.netlify.app/objectives/</link>
+      <link>http://localhost:1313/objectives/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://qbiodiversity.netlify.app/objectives/</guid>
-      <description>Learning objectives Quantitative Biodiversity is organized around the following learning objectives Upon completion of the course, students will be able to:
- Identify and discuss core concepts of biodiversity Quantify and compare measures of taxonomic diversity within and among samples Quantify the distribution of traits and species in a phylogenetic context Evaluate biodiversity in spatial and temporal contexts Use the R programming language to analyze and visualize biodiversity data Use GitHub for conducting and managing reproducible research projects  Student assessment  Assignments: Students will be given worksheets containing in-class exercises, which will also include assignments that need to be submitted via GitHub.</description>
+      <guid>http://localhost:1313/objectives/</guid>
+      <description>&lt;h3 id=&#34;learning-objectives&#34;&gt;Learning objectives&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Quantitative Biodiversity is organized around the following learning objectives&lt;/strong&gt;&#xA;&lt;em&gt;&lt;strong&gt;Upon completion of the course, students will be able to:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Identify and discuss core concepts of biodiversity&lt;/li&gt;&#xA;&lt;li&gt;Quantify and compare measures of taxonomic diversity within and among samples&lt;/li&gt;&#xA;&lt;li&gt;Quantify the distribution of traits and species in a phylogenetic context&lt;/li&gt;&#xA;&lt;li&gt;Evaluate biodiversity in spatial and temporal contexts&lt;/li&gt;&#xA;&lt;li&gt;Use the R programming language to analyze and visualize biodiversity data&lt;/li&gt;&#xA;&lt;li&gt;Use GitHub for conducting and managing reproducible research projects&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;student-assessment&#34;&gt;Student assessment&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Assignments:&lt;/strong&gt; Students will be given worksheets containing in-class exercises, which will also include assignments that need to be submitted via GitHub.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reading:&lt;/strong&gt; When assigned, students will need to read literature prior to class meetings.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Group project:&lt;/strong&gt; Students will be assigned to groups and will conduct an independent project that will be presented to the class.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Participation:&lt;/strong&gt; Students will need to attend and actively engage in discussion and computational exercises.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;late-assignments&#34;&gt;Late assignments&lt;/h3&gt;&#xA;&lt;p&gt;We realize that the pandemic can create challenges for meeting professional obligations. Therefore, we encourage you to let us know if you are having problems. Otherwise, if assignments are submitted less than 24 hours after the deadline, grade on that assignment will automatically be reduced 50 % prior to grading. Assignments submitted &amp;gt; 24 hours after deadline will receive no credit. You will receive an incomplete for the course if you receive two or more no-credit evaluations or if you receive four or more half-credit evaluations.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

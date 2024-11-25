@@ -1,7 +1,7 @@
 baseurl: https://qbiodiversity.netlify.app/
 languageCode: en-us
 title: Quantitative Biodiversity
-theme: my-blackburn
+theme: blackburn
 author: CK
 copyright: '&copy; 2024. All rights reserved.'
 canonifyurls: yes
