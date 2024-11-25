@@ -2,12 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://qbiodiversity.netlify.app/contact/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://qbiodiversity.netlify.app/</loc>
-    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qbiodiversity.netlify.app/summary/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qbiodiversity.netlify.app/resources/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qbiodiversity.netlify.app/schedule/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qbiodiversity.netlify.app/objectives/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qbiodiversity.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://qbiodiversity.netlify.app/</loc>
   </url><url>
     <loc>https://qbiodiversity.netlify.app/tags/</loc>
   </url>

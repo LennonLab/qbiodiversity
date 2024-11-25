@@ -6,16 +6,66 @@
     <description>Recent content on Quantitative Biodiversity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022. All rights reserved.</copyright><atom:link href="https://qbiodiversity.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2024. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qbiodiversity.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://qbiodiversity.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qbiodiversity.netlify.app/contact/</guid>
+      <description>Course Director Dr. Jay T. Lennon
+261 Biology Building (office)
+lennonj@iu.edu
+Other Instructors Dr. Emma Bueren
+073 Biology Building (office)
+261 Biology Building (lab)
+ebueren@iu.edu
+Dr. Jipeng Luo
+073 Biology Building (office)
+261 Biology Building (lab)
+luojip@iu.edu</description>
+    </item>
+    
     <item>
       <title>Quantitative Biodiversity</title>
-      <link>https://qbiodiversity.netlify.app/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://qbiodiversity.netlify.app/summary/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://qbiodiversity.netlify.app/</guid>
+      <guid>https://qbiodiversity.netlify.app/summary/</guid>
       <description>Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction in Earth&amp;rsquo;s history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 Student Portal
 Course summary This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://qbiodiversity.netlify.app/resources/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qbiodiversity.netlify.app/resources/</guid>
+      <description>Recommended textbooks  Measuring Biological Diversity, Magurran (2004) – (available online) Biological Diversity, Magurran and McGill (2011) – (available online) Numerical Ecology, Legendre and Legendre (2013) – (available online) Introductory Statistics with R, Dalgard (2008) – (available online) Numerical Ecology with R, Borcard, Gillet, &amp;amp; Legendre (2011) – (available online) Functional and Phylogenetic Ecology in R, Swenson (2014) – (available online) Phylogenies in Ecology, Cadotte and Davies (2016) - (available online) Pro Git, Chacon and Straub (2014) (available online)  Computational approaches to biodiversity using R And GitHub In this course, we will be using R and GitHub as complimentary tools for learning quantitative biodiversity.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://qbiodiversity.netlify.app/schedule/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qbiodiversity.netlify.app/schedule/</guid>
+      <description>Schedule Week 0 Introduction to the computing environment Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material.
+Week 1 Introduction to Quantitative Biodiversity
+What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics.</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>https://qbiodiversity.netlify.app/objectives/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qbiodiversity.netlify.app/objectives/</guid>
+      <description>Learning objectives Quantitative Biodiversity is organized around the following learning objectives Upon completion of the course, students will be able to:
+ Identify and discuss core concepts of biodiversity Quantify and compare measures of taxonomic diversity within and among samples Quantify the distribution of traits and species in a phylogenetic context Evaluate biodiversity in spatial and temporal contexts Use the R programming language to analyze and visualize biodiversity data Use GitHub for conducting and managing reproducible research projects  Student assessment  Assignments: Students will be given worksheets containing in-class exercises, which will also include assignments that need to be submitted via GitHub.</description>
     </item>
     
   </channel>
